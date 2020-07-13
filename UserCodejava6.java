@@ -20,8 +20,8 @@ public class UserCodejava6 {
 	    		}
 	    	}
 	    }
-		System.out.println(makeString);
-		return null;
+// 		System.out.println(makeString);
+		return makeString;
 	}
 
 	public static void main(String[] args) {
